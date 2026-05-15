@@ -5,7 +5,6 @@
 	<packaging>war</packaging
 	<groupId>com.ibm</groupId>
 	<artifactId>spring-mvc-demo1</artifactId>
-	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-mvc-demo1 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
